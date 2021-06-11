@@ -12,3 +12,9 @@ zxr_mergeROI.m
 
 classify_model.m
 建立了基于支持向量机、随机森林、逻辑回归和决策树的意识障碍预后预测模型
+
+fMRI_ANOVA.m
+在正常人中进行ANOVA分析：影响采集时间及不同的ROI是否对预后分数有影响
+
+smote.ipynb
+使用SMOTE算法对训练集中的少数类进行过采样平衡
